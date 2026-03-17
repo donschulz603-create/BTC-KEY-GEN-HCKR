@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BtcKeyGen.Blockchain/1.0.0": {
+        "dependencies": {
+          "BtcKeyGen.Core": "1.0.0"
+        },
+        "runtime": {
+          "BtcKeyGen.Blockchain.dll": {}
+        }
+      },
+      "BtcKeyGen.Core/1.0.0": {
+        "runtime": {
+          "BtcKeyGen.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BtcKeyGen.Blockchain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BtcKeyGen.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

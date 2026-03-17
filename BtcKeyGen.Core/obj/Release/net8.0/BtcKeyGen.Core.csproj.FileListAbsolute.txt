@@ -1,0 +1,11 @@
+C:\Users\derek\BtcKeyGenTTP\BtcKeyGen.Core\bin\Release\net8.0\BtcKeyGen.Core.deps.json
+C:\Users\derek\BtcKeyGenTTP\BtcKeyGen.Core\bin\Release\net8.0\BtcKeyGen.Core.dll
+C:\Users\derek\BtcKeyGenTTP\BtcKeyGen.Core\bin\Release\net8.0\BtcKeyGen.Core.pdb
+C:\Users\derek\BtcKeyGenTTP\BtcKeyGen.Core\obj\Release\net8.0\BtcKeyGen.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derek\BtcKeyGenTTP\BtcKeyGen.Core\obj\Release\net8.0\BtcKeyGen.Core.AssemblyInfoInputs.cache
+C:\Users\derek\BtcKeyGenTTP\BtcKeyGen.Core\obj\Release\net8.0\BtcKeyGen.Core.AssemblyInfo.cs
+C:\Users\derek\BtcKeyGenTTP\BtcKeyGen.Core\obj\Release\net8.0\BtcKeyGen.Core.csproj.CoreCompileInputs.cache
+C:\Users\derek\BtcKeyGenTTP\BtcKeyGen.Core\obj\Release\net8.0\BtcKeyGen.Core.dll
+C:\Users\derek\BtcKeyGenTTP\BtcKeyGen.Core\obj\Release\net8.0\refint\BtcKeyGen.Core.dll
+C:\Users\derek\BtcKeyGenTTP\BtcKeyGen.Core\obj\Release\net8.0\BtcKeyGen.Core.pdb
+C:\Users\derek\BtcKeyGenTTP\BtcKeyGen.Core\obj\Release\net8.0\ref\BtcKeyGen.Core.dll
