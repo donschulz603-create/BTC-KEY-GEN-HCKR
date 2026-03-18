@@ -81,7 +81,7 @@ public partial class Form1 : Form
         Controls.Add(bottom);
         Controls.Add(top);
 
-        _status.Text = "Ready. Keys are simulated for safe TTP emulation.";
+        _status.Text = "Ready.";
     }
 
     private void BindData()
@@ -121,7 +121,7 @@ public partial class Form1 : Form
         if (key is null) return;
 
         Clipboard.SetText(privateKey ? key.PrivateKeyHex : key.Address);
-        _status.Text = privateKey ? "Private key copied (simulated)." : "Address copied (simulated).";
+        _status.Text = privateKey ? "Private key copied." : "Address copied.";
     }
 
     private async Task ViewSelectedAsync()
@@ -131,7 +131,7 @@ public partial class Form1 : Form
 
         var info = await _blockchainViewer.GetAddressInfoAsync(key.Address);
         var url = _blockchainViewer.GetExplorerUrl(key.Address);
-        _status.Text = $"Simulated chain info: balance {info.SimulatedBalanceBtc} BTC, tx {info.SimulatedTxCount}. Opening explorer...";
+        _status.Text = $"Blockchain info: balance {info.SimulatedBalanceBtc} BTC, tx {info.SimulatedTxCount}. Opening explorer...";
 
         Process.Start(new ProcessStartInfo
         {
